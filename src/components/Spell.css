@@ -1,0 +1,24 @@
+div.spell {
+  width: 100%;
+  max-width: 400px;
+  height: 91.2px;
+  border: 2px solid black;
+  padding: 20px;
+  align-self: flex-start;
+  overflow-y: hidden;
+  transition: all 0.3s ease;
+}
+div.spell h2 {
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: center;
+}
+div.spell p {
+  font-size: 24px;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 20px;
+}/*# sourceMappingURL=Spell.css.map */
